@@ -1,0 +1,28 @@
+
+
+.logo{
+    width: 100px;
+  height: 100px;
+  float: left;
+}
+
+
+.size{
+    height: 4px;
+     background-color: #7d97ad;
+     width: 100%;
+}
+.title{
+    text-align:center;
+    font-size:28px;
+}
+
+.featured{
+    padding-left:40px;
+    color:#7d97ad;
+    font-size:30px;
+}
+.topic{
+text-align:right;
+    font-size:30px;
+}
